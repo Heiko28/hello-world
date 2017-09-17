@@ -1,1 +1,1 @@
-# hello-world - sone changes
+# hello-world - some changes
